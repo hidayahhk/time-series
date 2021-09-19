@@ -1,4 +1,4 @@
 # time-series
-Memprediksi kebutuhan energi yang digunakan dalam jangka waktu tertentu menggunakan LSTM dengan modul Tensorflow dengan hasil MAE sebesar 0.11
+Predicting the energy requirements used in a certain period of time using LSTM with the Tensorflow module with an MAE result of 0.11
 
 ![](MAE%20and%20Loss.PNG)
